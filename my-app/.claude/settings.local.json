@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(/C:\\Users\\ictgr\\onedrive\\Desktop\\store-frontend\\my-app\\src\\app/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
